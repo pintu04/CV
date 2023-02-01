@@ -365,7 +365,7 @@ body {
     font-size: 18px;
 }
 .tskl h3{
-    margin: -56px 19px;
+    margin: -64px 19px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
     font-size: 18px;
@@ -657,6 +657,12 @@ body {
 }
 
 
+.proj ul li a{
+    font-weight: 600;
+    list-style: none;
+    text-decoration: none;
+    margin-left: -18px;
+}
 .proj ul li {
     margin-bottom: 10px;
     margin-left: 19px;
@@ -671,6 +677,7 @@ font-weight: 500;
     letter-spacing: 1px;
     margin-right: 28px;
 }
+
 
 .cert h3{
     margin: 19px 21px;
